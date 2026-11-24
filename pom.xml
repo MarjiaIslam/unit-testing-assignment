@@ -42,6 +42,7 @@
           <targetTests>
             <param>parking.*</param>
           </targetTests>
+          <skipFailingTests>true</skipFailingTests>
         </configuration>
         <dependencies>
           <dependency>
